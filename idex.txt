@@ -1,0 +1,28 @@
+<html>
+    <head>
+        <title>THE LOUVRE IN ABU DHABI</title>
+    </head>
+    <body>
+        <div>
+            <header>
+            <p>The Louvre is an art museum located on Saadiyat in Abu Dhabi. It was originally in 
+                France and opened on November 8, 2017. The museum is part of a thirty-year
+                 agreement between the city of Abu Dhabi and the French government and has 
+                 many artwork on load from Paris. It is approximately 24,000 square meters making
+                 it the largest art museum in the Arabian Peninsula.</p>
+             </header>
+             <p>The architect of the louvre is a Pritzker-prize 
+                winning architect Jean Nouvel, he got inspiration
+                 for the concept from traditional Arabic
+                 architectural culture.</p>
+                <img src="CBOK2063.JPG" width="200" height="200">
+            <p>
+                The dome consists of eight different layers:
+                Four outer layers clad in stainless steel and 
+                four inner layers clad in aluminum separated 
+                by a steel frame five meters high.
+            </p>
+            <img src="FFJB3518.JPG" width="200" height="200">
+        </div>
+    </body>
+</html>

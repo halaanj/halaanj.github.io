@@ -1,0 +1,19 @@
+<html>
+    <head>
+        <header>Napoleon Bonaparte</header>
+    </head>
+    <body>
+        <div>
+            <p>The statue of Ramesses || is a 3200 year old figure of Ramses ||, the third king of 
+            the 19th dynasty of ancient Egypt. He ruled Egypt from 1279-13 BCE and his reign 
+            was the second longest in Egyptian history. This statue shows the conventional 
+            pose that indicates his roles as pharaoh, seated on a throne inscribed with his 
+            name, wearing the royal nemes headdress with a cobra and a false beard. </p>
+             <p>It was discovered in 1820 by Giovanni Battisa
+             Caviglia at the great temple of Ptah close to 
+              Memphis, Egypt. It is made from red granite and
+               weighs 83 tons.</p>
+                <img src="DDTB2984.JPG" width="200" height="200">
+        </div>
+    </body>
+</html>
